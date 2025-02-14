@@ -1,0 +1,20 @@
+{
+  "name": "ermanursetyani_tugassesi8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --reporter mochawesome",
+    "open-report": "start chrome file:///C:/User/user/ERMANSAPI/ERMANURSETYANI_TUGASSESI8/mochawesome-report/mochawesome.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^11.1.0",
+    "mochawesome": "^7.1.3"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1"
+  }
+}
